@@ -1,6 +1,6 @@
 # QCAD
 
-Goal: To establish the computational infrastructure and  algorithms which can put theory-in-the-loop for experimental automation of synthesis, manipulation and characterization, accelerating autonomous discovery of new materials and chemical processes. 
+Goal: To establish the computational infrastructure and  algorithms which can put theory-in-the-loop for experimental automation of synthesis, manipulation and characterization, accelerating autonomous discovery of new materials, physics and chemical processes. 
 
 Specific sub-projects currently being worked upon : 
   1. Develop cross-platform workflows on HPC environments to create Digital Twins for material discovery, synthesis, manipulation and characterization using multi-scale simulation methodogies (for now focusing on, ab initio methods at varying fidelity, atomiistic force-fields, phase-field simulation approaches);
