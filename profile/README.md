@@ -12,7 +12,7 @@ Specific sub-projects currently being worked upon :
 Key Repositories: 
 
 1. Spec2Ham -- Solves the inverse problem of constructing a Hamiltonian from a 1D spectra, such as a Scanning Tunneling Spectroscopy (STS) measuerment, using a Bayesian Optimisation method.  
-2. MatEnsemble -- Asynchronous HPC workflow to orchestrate job submissions with in-GPU-memory on-the-fly analysis.
+2. MatEnsemble -- Asynchronous HPC workflow to orchestrate job submissions with on-the-fly inference on materials dynamics.
 3. Spec2Struct -- Solves the inverse problem of generating atomic structures conditioned upon a given 1D spectra, such as a Scanning Tunneling Spectroscopy (STS) measurement, using a Generative Dissuion model.
 4. HeteroBuilder -- python tools to construct quantum heterostructures.
    
