@@ -1,4 +1,4 @@
-# QCAD
+# QCAD -- Quantum Correlated materials Accelerated Discovery platform
 
 Goal: To establish the computational infrastructure and  algorithms which can put theory-in-the-loop for experimental automation of synthesis, manipulation and characterization, accelerating autonomous discovery of new materials and chemical processes. 
 
