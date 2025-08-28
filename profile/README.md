@@ -21,7 +21,7 @@ Active Lead Developers in this Project:
 1. Soumendu Bagchi
 2. Ayana Ghosh
 3. Addis Fuhr
-5. P. Ganesh
+5. P. Ganesh (Project-Lead and Administrator)
 
 Students/Postdocs contributing to this Project: 
 
