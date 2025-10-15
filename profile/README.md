@@ -16,6 +16,7 @@ Key Repositories:
 3. Spec2Struct -- Solves the inverse problem of generating atomic structures conditioned upon a given 1D spectra, such as a Scanning Tunneling Spectroscopy (STS) measurement, using a Generative Dissuion model.
 4. HeteroBuilder -- python tools to construct quantum heterostructures.
 5. PyRMG -- Python wrapper to perform high-throughput real-space multigrid DFT calculations on DOE's exascale supercomputers (Frontier, Aurora and Perlmutter)
+6. CBED-image-2-struct -- rVAE based inverse-learning algorithm to combine digital-twins of convergent beam electron diffraction (CBED) patterns with experimental CBED measurements to solve for the underlying atomic structure; 
    
 Active Lead Developers in this Project: 
 
@@ -27,10 +28,11 @@ Active Lead Developers in this Project:
 Students/Postdocs contributing to this Project: 
 
  1. Ryan Morelock
- 2. Ankita Biswas
- 3. Shuyi Jia
- 4. Ankush Mishra
- 5. Abhijeet Dhakane
+ 2. Zijie Wu 
+ 3. Ankita Biswas
+ 4. Shuyi Jia
+ 5. Ankush Mishra
+ 6. Abhijeet Dhakane
 
 External collaborators and advisors for this Project: 
 
