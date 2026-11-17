@@ -20,14 +20,15 @@ Key Repositories:
    
 Active Lead Developers in this Project: 
 
-1. Soumendu Bagchi
-2. Ayana Ghosh
-3. Addis Fuhr
+1. Soumendu Bagchi (MatEnsemble: Concept and Lead)
+2. Kaleb Duchesneau (MatEnsemble)
+3. Ayana Ghosh
+4. Addis Fuhr
 5. P. Ganesh (Project-Lead and Administrator)
 
 Students/Postdocs contributing to this Project: 
 
- 1. Ryan Morelock
+ 1. Ryan Morelock (EnsembleFFFit: Lead)
  2. Zijie Wu 
  3. Ankita Biswas
  4. Shuyi Jia
